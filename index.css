@@ -1,0 +1,25 @@
+/* 
+    From the body tag, move the content of our page away from the window edge
+    Give the body tag a font-family of ['Gill Sans', 'Gill Sans MT']
+ */
+
+body {
+    margin: 30px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.title {
+    color: #16697A;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.entry-textbox {
+    background-color: #FFA62B;
+    width: 20em;
+    height: 10em;
+    padding: 1em;
+    margin-bottom: 0.5em;
+    border: unset;
+    border-radius: 25px;
+}
