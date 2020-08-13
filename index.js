@@ -1,4 +1,8 @@
 // javascript
+//TODOS:
+//1. Line by line code review
+//2. Add the date/time for when an entry is added and display that 
+
 //can use querySelector to get both classes & ids
 var entryForm = document.getElementById('entryForm');
 var entriesSection = document.querySelector("#entries");
