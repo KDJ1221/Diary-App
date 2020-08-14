@@ -1,4 +1,4 @@
 # Diary-App
-Creating a diary app as a part of Scrimba's Frontend Course, with some additional features.
+Created a simple diary app as a part of Scrimba's Frontend Course. I added an additional feature of the day, month, and hour being displayed for each unique entry.
 
 <img src="https://media.giphy.com/media/hSXprUHgntXdcO3eQ2/giphy.gif"><br>
